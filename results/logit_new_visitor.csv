@@ -1,0 +1,5 @@
+model,or_new_visitor,lo,hi,p,parameters
+crude,2.0495,1.812,2.318,0.0,3
+"+ month, weekend, special day",1.9188,1.6906,2.1779,0.0,14
++ browsing behaviour,1.5839,1.3715,1.8292,0.0,22
++ PageValues (a leaky feature),1.9318,1.5888,2.3488,0.0,23

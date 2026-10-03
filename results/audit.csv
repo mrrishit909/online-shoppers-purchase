@@ -1,0 +1,12 @@
+check,value
+sessions,12330.0
+exact duplicate rows,125.0
+missing values,0.0
+purchases,1908.0
+purchase rate (%),15.47
+sessions with PageValues above 0,2730.0
+months present (of 12),10.0
+sessions with no product pages,38.0
+purchase rate when PageValues is 0 (%),3.85
+purchase rate when PageValues is above 0 (%),56.34
+purchase rate without the duplicates (%),15.63
