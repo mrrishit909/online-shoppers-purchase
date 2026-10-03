@@ -1,0 +1,9 @@
+{
+  "pulled": "2026-10-03",
+  "url": "https://archive.ics.uci.edu/static/public/468/online+shoppers+purchasing+intention+dataset.zip",
+  "files_in_zip": [
+    "online_shoppers_intention.csv"
+  ],
+  "rows": 12330,
+  "sha256": "b3055ee355f59134d851d32641183cb4a8b45def7124d2f50442a042f358e0d9"
+}
